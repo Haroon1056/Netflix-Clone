@@ -32,3 +32,7 @@ Contributions are welcome! If you have suggestions for improvements or have foun
 
 - This project is inspired by the design and functionality of Netflix.
 
+## Authors
+
+- [@HaroonRasheed](https://github.com/Haroon1056)
+
